@@ -1,0 +1,25 @@
+name: personal_attempt
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Downtown-1.jpg
+    - assets/Downtown-20.jpg
+    - assets/20161006_105644.jpg
+    - assets/the-walking-corniche.jpg
